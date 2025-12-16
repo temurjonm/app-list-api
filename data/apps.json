@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "id": 1,
+      "name": "Picnic Basket",
+      "tagline": "The best way to fill up your picnic basket!",
+      "image_url": "https://picsum.photos/200"
+    },
+    {
+      "id": 2,
+      "name": "Checkered Blanket",
+      "tagline": "Get connected with picnics near you",
+      "image_url": "https://picsum.photos/200"
+    },
+    {
+      "id": 3,
+      "name": "Sandwich Builder",
+      "tagline": "Design the tastiest sandwiches",
+      "image_url": "https://picsum.photos/200"
+    }
+  ]
+}
